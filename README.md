@@ -1,6 +1,6 @@
 # Grass-v2-auto-bot# Tringuyenjan
 There's nothing here at all.
-
+# # # Requires Python version 3.10 or higher.
 Data 
 ![image](https://github.com/user-attachments/assets/4ac88df8-268d-4da2-8237-bcccc2e8d5b3)
 
