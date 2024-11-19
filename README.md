@@ -10,3 +10,5 @@ Add the proxy to the file proxy.txt in the format http://user:pass@host:port. It
 
 Buy proxies for running Grass at only 0.15USA per month. Minimum order: 50 proxies.
 Telegram: @Airdroptonghoptool. Buy proxy:  tele: @tringuyenjan12
+
+After adding, run the file Grass.exe.
